@@ -1,0 +1,40 @@
+git restore --staged<file> to unstage
+git rebase theotherbrachwaitingforcommit
+git merge newbranchtocurrentbranch
+git branch -d branchname
+git branch -l -a
+git checkout master
+git checkout -b features/test001-ffmerge
+git pull = fetch + merge
+fit reflog -- to remmber what happened before you leave
+git stash list
+git stash pop
+git stash list
+git stash (to reserve our working away and get back  to the latest head code)
+git merge
+git fetch
+to know the current branch
+git branch -l -a
+git branch -vv
+git clone URL
+git push origin
+git commit -am"Adding another change to the branch in staging area"
+git push --set-upstream origin master              --sending the local repo changes to remote one
+git remote add origin https://github.com/moustafa85/revisingVSC.git
+git commit -m"Initialize the project"
+git ls-files --stage  
+git config -l --local  
+git status 
+git add . 
+git log 
+git config user.email moustafa.fci2006@gmail.com 
+git config user.name moustafa
+git init 
+
+git config credential.helper store
+git config remote.origin.url https://moustafa85:FaHaMo123$@github.com/moustafa85/selenium-training.git
+
+git push https:https://github.com/moustafa85/selenium-training.git
+git rm --cashed<file>
+git remote add origin https://github.com/moustafa85/selenium-training.git Master
+
