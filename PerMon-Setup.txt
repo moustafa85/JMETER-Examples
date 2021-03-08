@@ -4,5 +4,5 @@ dir /O:-D
 
 http://jmeter-plugins.org/downloads/file/ServerAgent-2.2.1.zip
 
-type : on admin mode
+type : open CMD on admin mode
 startAgent.bat
