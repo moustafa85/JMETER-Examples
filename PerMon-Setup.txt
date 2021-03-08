@@ -1,0 +1,8 @@
+http://jmeter-plugins.org/downloads/file/JMeterPlugins-Standard-1.3.1.zip
+extract to jmeter root folder, run the following command
+dir /O:-D
+
+http://jmeter-plugins.org/downloads/file/ServerAgent-2.2.1.zip
+
+type : on admin mode
+startAgent.bat

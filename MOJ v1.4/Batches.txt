@@ -1,0 +1,7 @@
+@ECHO OFF
+ECHO ============================
+ECHO Running Scenarios - Tanfeeth
+ECHO ============================
+
+cd C:\MOJ-001\Performance\apache-jmeter-5.2.1\apache-jmeter-5.2.1\bin
+jmeter -n -t C:\MOJ-001\Performance\MOJ\STG-Forums-AllRequests.jmx -l C:\MOJ-001\Performance\report-output\dt-STG-Forums-AllRequests-plan.jtl -e -o C:\MOJ-001\Performance\report-output\
